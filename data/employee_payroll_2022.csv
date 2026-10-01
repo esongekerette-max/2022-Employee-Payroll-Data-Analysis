@@ -1,1 +1,4 @@
 pay_date,employee_name,designation,basic_salary,work_days,daily_income,absent_days,deduction,bonus,received
+2022-01-29,employee 001,Foreman,15000,30,500,1,500,1000,15500
+2022-01-29,employee 002,Transporter (Jan),12000,30,400,4,1600,800,11200
+2022-01-29,employee 003,Cleaner (Jan),10000,30,333,0,667,1000,10333
